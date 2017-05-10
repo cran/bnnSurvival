@@ -1,6 +1,6 @@
-af70886adc2814fb0e12c00714762bc0 *DESCRIPTION
+d239f4342d4f02f8f99871de27245254 *DESCRIPTION
 42b46aa330aafe15f3e8e66633083bc0 *NAMESPACE
-149cab120147c55167c17a6ed047ede5 *R/RcppExports.R
+aa4f3ec77654e9e4a6020373159740a4 *R/RcppExports.R
 080cad02d443bdeb57a8b306898d72b5 *R/all_generics.R
 4c0f2ba3f309792b2c6dd0b6a2a05690 *R/bnnSurvival.R
 a1a4bc1a177cd6e0e540ae91af445caf *R/bnnSurvivalBaseLearner.R
@@ -21,7 +21,8 @@ ed45e356002dbd5cc22fafda8053c13b *man/print-bnnSurvivalEnsemble-method.Rd
 4b2647c0b90581d6b3ce5b9752aa4bc2 *man/show-bnnSurvivalResult-method.Rd
 44d8f3bb75f89da9b1e82b5b6938b9cd *man/timepoints-bnnSurvivalResult-method.Rd
 edaab3ccb1bf9e1f0d95023de4b5f3eb *man/timepoints.Rd
-f4dcffa543e6235e64c3818650826aeb *src/RcppExports.cpp
+2320cb42f4a54ef5454f80b42ed72d68 *src/RcppExports.cpp
+c4e1a20d94d84cb7f7394c9b7e7e457e *src/bnnSurvival_init.c
 05ef70ae5edb6b805e673cd92f4418e0 *src/weighted_kaplan_meier.cpp
 6794c2ec332d12ac45ce58042ac806ab *tests/testthat.R
 55180da0b204faebf6bd07a2e70e6e75 *tests/testthat/test_bnnSurvival.R
